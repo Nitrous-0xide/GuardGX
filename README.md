@@ -19,8 +19,3 @@ A lightweight, silent Windows utility that monitors the **Downloads** folder in 
 * **Compiler**: MSVC (Microsoft Visual C++) or MinGW-w64
 * **Windows Subsystem**: Should be compiled as a Windowed application.
 
-## 🔨 Building from Source
-
-### Using MinGW/g++:
-```bash
-g++ -o OperaShield.exe main.cpp -luser32 -lshell32 -lole32
