@@ -1,4 +1,4 @@
-# Opera Installer Shield
+# GuardGX
 
 A lightweight, silent Windows utility that monitors the **Downloads** folder in real-time and automatically deletes Opera browser installers (`OperaSetup.exe`, `OperaGXSetup.exe`, etc.) the moment they appear.
 
